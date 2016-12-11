@@ -1,1 +1,2 @@
 # Application_Bridge
+#諸事情でGameLancher下のパスでは実行できずある決まったパスからでしか実行できないプログラム(Processingなど)をGameLancherで起動するためのもの
