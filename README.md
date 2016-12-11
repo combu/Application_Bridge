@@ -4,4 +4,4 @@ ApplicationBridgeは諸事情でGameLancher下のパスでは実行できず、�
 <br>
 1, ApplicationBridge.exeと同じ階層にpath.txtを作成してください。(path.txtは自動生成されません。)<br>
 2, path.txtには呼び出したいアプリケーションの"絶対パス"を書いてください。<br>
-3,　ApplicationBridge.exeを実行してください。<br>
+3, ApplicationBridge.exeを実行してください。<br>
